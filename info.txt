@@ -1,0 +1,4 @@
+API_TOKEN = '6809536125:AAHx_IJF4srqSEskkNa4OV9EMFTP7ooizLc'
+
+# ID администратора
+ADMIN_IDS = [735291377, 5429082466]  # Замените на ваши ID
